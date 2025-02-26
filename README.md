@@ -125,6 +125,8 @@ Applications of Forking:
  2. Failing to commit usually makes it harder to follow changes.
  3. Exposing Sensitive Data (passwords, API keys) → Security vulnerabilities.
  4. Not Writing Clear Commit Messages → Confusing history.
+
+
  **Best Practices:**
   1. Make informative commit messages ("Fixed issue #23 - login bug")
   2. Follow branching conventions (e.g., Git Flow)
